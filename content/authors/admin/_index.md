@@ -1,7 +1,7 @@
 ---
 title: Aniruddha Pathak
 role: PhD Student, Iowa State University
-avatar_filename: a.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Statistics.
 interests:
   - Artificial Intelligence
