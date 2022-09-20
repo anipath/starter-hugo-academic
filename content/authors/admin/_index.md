@@ -1,9 +1,8 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Aniruddha Pathak
+role: PhD Student, Iowa State University
 avatar_filename: a.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Statistics.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
