@@ -3,6 +3,7 @@ widget: Education
 widget_id: Education
 headless: true
 weight: 10
+title: Education
 active: true
 design:
   columns: "2"
