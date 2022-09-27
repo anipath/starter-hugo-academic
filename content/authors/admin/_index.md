@@ -12,7 +12,7 @@ social:
       header: false
     link: https://github.com/anipath
     icon_pack: fas
-    icon: github
+    icon: <i class="fa-brands fa-github"></i>
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
