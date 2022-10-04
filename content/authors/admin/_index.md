@@ -6,9 +6,9 @@ bio: My research interests include Statistics.
 interests:
   - Statistics
 social:
-  -icon: envelope
-   icon_pack: fas
-   link: 'mailto:anipath@iastate.edu'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/aniruddha-pathak-a92701145/
 organizations:
   - name: Dept. of Statistics, Iowa State University
     url: https://www.stat.iastate.edu/
