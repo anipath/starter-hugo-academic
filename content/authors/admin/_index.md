@@ -6,11 +6,9 @@ bio: My research interests include Statistics.
 interests:
   - Statistics
 social:
-  - display:
-      header: false
-    link: https://github.com/anipath
-    icon_pack: fab
-    icon: <i class="fa-brands fa-github"></i>
+  -icon: envelope
+   icon_pack: fas
+   link: 'mailto:anipath@iastate.edu'
 organizations:
   - name: Dept. of Statistics, Iowa State University
     url: https://www.stat.iastate.edu/
