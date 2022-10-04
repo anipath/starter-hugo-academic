@@ -12,12 +12,18 @@ social:
     icon_pack: fas
     icon: <i class="fa-brands fa-github"></i>
 organizations:
-  - name: Iowa State University
-    url: https://www.iastate.edu/
+  - name: Dept. of Statistics, Iowa State University
+    url: https://www.stat.iastate.edu/
 education:
   courses:
     - course: PhD in Statistics
       institution: Iowa State Univeristy
+    - course: Master of Science in Statistics
+      institution: Indian Institute of Technology, Kanpur
+      year: 2022
+    - course: Bachelor of Science (Hons.) in Statistics
+      institution: Ramakrishna Mission Residential College, Narendrapur, India
+      year: 2018
 email: anipath@iastate.edu
 superuser: true
 highlight_name: true
