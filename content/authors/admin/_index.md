@@ -4,18 +4,14 @@ role: PhD Student, Iowa State University
 avatar_filename: avatar.jpg
 bio: My research interests include Statistics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Statistics
 social:
   - display:
       header: false
     link: https://github.com/anipath
     icon_pack: fas
     icon: <i class="fa-brands fa-github"></i>
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
     - course: PhD in Statistics
