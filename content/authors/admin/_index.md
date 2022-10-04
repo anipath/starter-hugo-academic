@@ -9,7 +9,7 @@ social:
   - display:
       header: false
     link: https://github.com/anipath
-    icon_pack: fas
+    icon_pack: fab
     icon: <i class="fa-brands fa-github"></i>
 organizations:
   - name: Dept. of Statistics, Iowa State University
