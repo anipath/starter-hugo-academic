@@ -1,6 +1,6 @@
 ---
 title: Aniruddha Pathak
-role: PhD Student, Iowa State University
+role: PhD Student
 avatar_filename: avatar.jpg
 bio: My research interests include Statistics.
 interests:
@@ -11,7 +11,9 @@ social:
     link: https://github.com/anipath
     icon_pack: fas
     icon: <i class="fa-brands fa-github"></i>
-organizations: []
+organizations:
+  - name: Iowa State University
+    url: https://www.iastate.edu/
 education:
   courses:
     - course: PhD in Statistics
